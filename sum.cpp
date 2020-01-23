@@ -27,5 +27,4 @@ if (flg==1)
 else
 cout<<"NO";
 }
-
 }
